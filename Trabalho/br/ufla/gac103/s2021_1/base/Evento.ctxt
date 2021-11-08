@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Evento
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ interface\ Evento\ aqui.\r\n\ \r\n\ @author\ (Cleber\ H.\ S.\ J\u00FAnior\ e\ Max\ Deivid\ do\ Nascimento)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment2.params=
+comment2.target=java.lang.String\ getTipo()
+numComments=3

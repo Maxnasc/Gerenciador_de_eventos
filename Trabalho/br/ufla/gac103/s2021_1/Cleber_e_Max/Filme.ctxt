@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Filme
+comment0.text=\r\n\ A\ classe\ Filme\ \u00E9\ respons\u00E1vel\ por\ reunir\ e\ tratar\ as\ caracter\u00EDsticas\ do\ evento\ "Filme".\r\n\ \r\n\ @author\ (Cleber\ H.\ S.\ J\u00FAnior\ e\ Max\ Deivid\ do\ Nascimento)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=nome\ local\ genero\ listaDeAtores\ diretor
+comment1.target=Filme(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.ArrayList,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Filme\r\n
+comment2.params=
+comment2.target=java.lang.String\ getGenero()
+comment2.text=\r\n\ Retorna\ o\ g\u00EAnero\ do\ filme.\r\n\ \r\n\ @return\ String.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getLista()
+comment3.text=\r\n\ Retorna\ uma\ lista\ dos\ atores\ presentes\ no\ filme.\r\n\ \r\n\ @return\ String.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDiretor()
+comment4.text=\r\n\ Retorna\ o\ nome\ do\ diretor.\r\n\ \r\n\ @return\ String.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getDescricao()
+comment5.text=\r\n\ Retorna\ uma\ lista\ dos\ detalhes\ do\ evento\ filme.\r\n\ \r\n\ @return\ String.\r\n
+numComments=6

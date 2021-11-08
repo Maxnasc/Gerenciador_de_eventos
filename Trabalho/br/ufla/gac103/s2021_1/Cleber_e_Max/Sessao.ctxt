@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Sessao
+comment0.text=\n\ A\ classe\ Sessao\ e\ responsavel\ por\ representar\ as\ sessoes\ de\ cada\ evento.\n\ Cada\ sessao\ conta\ com\ os\ atributos\ nome,\ tipo,\ data,\ capacidade\ e\ ingressos\ vendidos.\n\ @author\ (Cleber\ H.\ S.\ J\u00FAnior\ e\ Max\ Deivid\ do\ Nascimento).\ \n\ @version\ (1.0)\n
+comment1.params=data\ capacidade\ nome\ tipo
+comment1.target=Sessao(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Construtor\ para\ objetos\ da\ classe\ Sess\u00E3o.\ Ressalta-se\ que\ os\ ingressos\ vendidos\ sao\ inicializados\ com\ 0.\n\ @param\ data\ String\ da\ data\ que\ o\ evento\ sera\ realizado\n\ @param\ capacidade\ String\ de\ pessoas\ na\ sessao\ do\ evento\n\ @param\ nome\ String\ nome\ do\ evento\ a\ qual\ a\ sessao\ sera\ realizada\n\ @param\ tipo\ String\ do\ tipo\ do\ evento\ da\ sessao\ em\ questao\n
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment2.text=\n\ Metodo\ sobreescrito\ que\ retorna\ o\ nome\ do\ evento\ relacionado\ a\ sessao.\ \n\ @return\ String\ do\ nome\ do\ evento.\ \n
+comment3.params=
+comment3.target=java.lang.String\ getTipo()
+comment3.text=\n\ Metodo\ sobreescrito\ que\ retorna\ o\ tipo\ do\ evento\ relacionado\ a\ sessao.\n\ @return\ String\ do\ tipo\ do\ evento.\ \n
+comment4.params=
+comment4.target=java.lang.String\ getData()
+comment4.text=\n\ \ Metodo\ que\ consulta\ e\ retorna\ a\ data\ de\ realiza\u00E7ao\ do\ evento.\n\ \ @return\ String\ da\ data\ de\ realiza\u00E7ao\ da\ sessao\ \n
+comment5.params=
+comment5.target=java.lang.String\ getCapacidade()
+comment5.text=\n\ Metodo\ que\ consulta\ e\ retorna\ a\ capacidade\ de\ pessoas\ na\ sessao.\n\ @return\ String\ da\ capacidade\ de\ pessoas\ no\ evento.\ \n
+comment6.params=
+comment6.target=int\ getIngressosVendidos()
+comment6.text=\n\ \ Metodo\ que\ consukta\ e\ retorna\ a\ quantidade\ de\ ingressos\ vendidos\ para\ a\ sessao.\n\ \ @return\ String\ da\ quantidade\ de\ ingresss\ vendidos\ para\ a\ sessao.\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ Metodo\ que\ sobreescreve\ o\ metodo\ toString\ da\ superclasse\ Object.\ \n\ O\ metodo\ retorna\ a\ descri\u00E7ao\ da\ sessao.\n\ @return\ String\ com\ a\ descri\u00E7ao\ da\ sessao.\ \n
+numComments=8

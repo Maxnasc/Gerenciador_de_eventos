@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Show
+comment0.text=\r\n\ A\ classe\ Show\ \u00E9\ respons\u00E1vel\ por\ reunir\ e\ tratar\ as\ caracter\u00EDsticas\ do\ evento\ "Show".\r\n\ \r\n\ @author\ (Cleber\ H.\ S.\ J\u00FAnior\ e\ Max\ Deivid\ do\ Nascimento)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=nome\ local\ cantor\ nomeTurne
+comment1.target=Show(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Show\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCantor()
+comment2.text=\r\n\ Retorna\ o\ nome\ do\ cantor.\r\n\ \r\n\ @return\ String.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTurne()
+comment3.text=\r\n\ Retorna\ o\ nome\ da\ turn\u00EA.\r\n\ \r\n\ @return\ String.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDescricao()
+comment4.text=\r\n\ Retorna\ a\ descri\u00E7\u00E3o\ completa\ do\ evento\ "show".\r\n\ \r\n\ @return\ String.\r\n
+numComments=5
